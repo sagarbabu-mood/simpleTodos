@@ -1,0 +1,25 @@
+.list {
+  list-style-type: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+
+.title {
+  font-size: 18px;
+  margin-right: 100px;
+  font-weight: 500;
+}
+
+.button {
+  margin-left: auto;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  background-color: transparent;
+  height: 30px;
+  width: 90px;
+  color: #ff0b37;
+}
